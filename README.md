@@ -22,4 +22,5 @@ This serves as a foundational step in the development process and will provide y
 
 ### Submission:
         When you push and commit changes to the index.html file, your submission will be received.
+        .
 
